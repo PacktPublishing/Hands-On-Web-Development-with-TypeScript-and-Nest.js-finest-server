@@ -25,6 +25,7 @@
     "@nestjs/platform-express": "^6.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
+    "dotenv": "^8.0.0",
     "helmet": "^3.18.0",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
